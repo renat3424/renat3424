@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renat</h1>
 <h3 align="center">I'm a software developer who loves working on cool projects, learning new stuff, and always ready for a challenge.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/renat3424/3d-geological-model-creation-program/blob/master/3dmodelcreation.gif">
 - 📫 How to reach me **galifanov.renat@gmail.com**
 
 

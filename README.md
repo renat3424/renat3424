@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renat</h1>
 <h3 align="center">I'm a software developer who loves working on cool projects, learning new stuff, and always ready for a challenge.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/renat3424/3d-geological-model-creation-program/blob/master/3dmodelcreation.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/renat3424/3d-geological-model-creation-application/blob/master/3dmodelcreation.gif">
 - 📫 How to reach me **galifanov.renat@gmail.com**
 
 
